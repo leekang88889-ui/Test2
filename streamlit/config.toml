@@ -1,0 +1,11 @@
+# 라이트/다크 테마를 모두 정의해 브라우저(OS) 설정을 따르게 합니다.
+[theme.light]
+primaryColor = "#4F6BED"
+font = "sans serif"
+
+[theme.dark]
+primaryColor = "#7C93FF"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
